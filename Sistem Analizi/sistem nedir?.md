@@ -47,5 +47,5 @@ Sistemler statik değildir; sürekli değişen ve kendini adapte eden yapılard�
 
 **Bütüncül Bakış Açısı:** Sistemi bir bütün olarak görebilmek, daha dengeli ve etkili kararlar alınmasına yardımcı olur. İş dünyasında, eğitimde, sağlık sektöründe ve daha pek çok alanda bu bakış açısı değerli hale gelir.
 
-***Yani;***
+***Yani;***  
 *Sistem düşüncesi, yalnızca parçaları değil, parçaların bir bütün içindeki etkisini ve ilişkilerini anlamaya yönelik bir yaklaşımdır. Bu düşünce tarzı, daha derin ve etkili çözümler bulmamızı sağlar ve karmaşık sorunları daha kapsamlı bir şekilde ele almamıza yardımcı olur.*
