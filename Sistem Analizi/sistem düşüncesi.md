@@ -1,6 +1,11 @@
 # SİSTEM DÜŞÜNCESİ NEDİR?🤓
 
-Sistem düşüncesi;
+ **Sistem düşüncesini anlamamız için referans olabilecek bazı sorular şunlar olabiilir;**
+- amaç nedir?
+- bunun çalışması için parçaları nasıl bir araya getireceğiz?
+- sistemi nasıl inşa edip sürekli çalışmasını nasıl sağlayacağız?
+
+**Sistem düşüncesi;**
 - karmaşık bir bütünün parçalarının nasıl etkileşim içinde olduğunu anlamaya yönelik bir bakış açısıdır.
 - Basit bir tanımla, bir sistemin parçalarını tek tek incelemek yerine, bu parçaların birbirleriyle nasıl bağlantılı olduğunu ve birlikte nasıl çalıştığını değerlendirme yaklaşımıdır.
 
