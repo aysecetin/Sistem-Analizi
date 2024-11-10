@@ -5,6 +5,11 @@
 - bunun çalışması için parçaları nasıl bir araya getireceğiz?
 - sistemi nasıl inşa edip sürekli çalışmasını nasıl sağlayacağız?
 
+**örneğin;**
+- arabayı ayrıştırılmış düşünmekten ziyade bir bütün olarak ele almalıyız.
+- buluş süreci sırasında satranç tahtasının tamamını görmeliyiz.
+
+
 **Sistem düşüncesi;**
 - karmaşık bir bütünün parçalarının nasıl etkileşim içinde olduğunu anlamaya yönelik bir bakış açısıdır.
 - Basit bir tanımla, bir sistemin parçalarını tek tek incelemek yerine, bu parçaların birbirleriyle nasıl bağlantılı olduğunu ve birlikte nasıl çalıştığını değerlendirme yaklaşımıdır.
