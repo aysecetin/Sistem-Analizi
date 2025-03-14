@@ -60,3 +60,15 @@ Sistemler statik değildir; sürekli değişen ve kendini adapte eden yapılard�
 ***Yani;***  
 *Sistem düşüncesi, yalnızca parçaları değil, parçaların bir bütün içindeki etkisini ve ilişkilerini anlamaya yönelik bir yaklaşımdır. Bu düşünce tarzı, daha derin ve etkili çözümler bulmamızı sağlar ve karmaşık sorunları daha kapsamlı bir şekilde ele almamıza yardımcı olur.*
 
+# SİSTEM ÖZELLİKLERİ NELERDİR?🤓
+
+## Sistem Özellikleri 
+- Her sistem bir amaca hizmet eder. Bir fonksiyon gerçekleştirir.
+- Her sistemin bir sınırı vardır.
+- Sistemler bileşenlerden oluşur.
+- Bileşenler arasında ilişkiler vardır.
+- Her sistem çevresi ile etkileşim halindedir.
+- Çevresi ile etkileşim sağlamak üzere giriş, çıkış olanakları ve gerekirse kullanıcı arabirimi bulunur.
+- Her sistemin kısıtları vardır.
+
+
